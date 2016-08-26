@@ -15,7 +15,7 @@ neural network of one hidden layer.
 ##For more information
 
 * [Tutorial website](https://cs.stanford.edu/~quocle/tutorial1.pdf ) 
-* [Neural Networks Demystified [Part 4- Backpropagation](https://www.youtube.com/watch?v=GlcnxUlrtek)
+* [Neural Networks Demystified, Part 4- Backpropagation](https://www.youtube.com/watch?v=GlcnxUlrtek)
 * [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning/home/welcome)
 * [Quick coding intro to Neural Networks](http://andrew.gibiansky.com/)
 * [Machine Learning with Python LinearRegression](http://aimotion.blogspot.com/2011/10/machine-learning-with-python-linear.html) 
