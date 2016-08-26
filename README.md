@@ -18,4 +18,4 @@ neural network of one hidden layer.
 * [Neural Networks Demystified [Part 4- Backpropagation](https://www.youtube.com/watch?v=GlcnxUlrtek)
 * [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning/home/welcome)
 * [Quick coding intro to Neural Networks](http://andrew.gibiansky.com/)
-* [Machine Learning with Python - Linear Regression] (http://aimotion.blogspot.com/2011/10/machine-learning-with-python-linear.html) 
+* [Machine Learning with Python LinearRegression](http://aimotion.blogspot.com/2011/10/machine-learning-with-python-linear.html) 
