@@ -4,7 +4,7 @@
   <img src="http://static1.squarespace.com/static/5213a664e4b01a5565dc90f1/t/570cfc5ab654f97eee862aba/1460468850439/Deep-Learning-Value-Investing-Machine-Learning?format=1000w"><br><br>
 </div>
 
-##A Tutorial on Deep Learning - Part 1:  Nonlinear Classi ers and The Backpropagation Algorithm
+##A Tutorial on Deep Learning - Part 1:  Nonlinear Classiers and The Backpropagation Algorithm
 
 ### Problems: 
 The purpose of this exercise is for you to understand better the backpropagation algorithm and stochastic
